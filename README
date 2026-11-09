@@ -1,4 +1,55 @@
-# HR Attrition- Insights & Recmmendation
+HR Employee Attrition Analysis | Power BI & Python
 
+Project Overview
+
+This project focuses on analyzing employee attrition to identify workforce trends, understand potential factors contributing to employee turnover, and provide actionable insights to support data-driven HR decisions.
+
+The analysis was conducted using a dataset containing 1,470 employee records.
+
+Objectives
+
+- Analyze overall employee attrition and workforce trends.
+- Identify departments and job roles with higher attrition rates.
+- Explore the relationship between overtime and employee turnover.
+- Detect and investigate potential outliers.
+- Develop actionable recommendations to support employee retention.
+
+Tools & Technologies
+
+- Power BI: Interactive dashboard and data visualization.
+- DAX: KPI calculations and analytical measures.
+- Python: Data analysis and outlier detection.
+- Pandas: Data manipulation and analysis.
+- Excel: Initial data exploration.
+
+Key Findings
+
+- Overall attrition rate: 16.12%.
+- Employees working overtime showed a higher attrition rate.
+- Attrition rates varied across departments and job roles.
+- Potential outliers were identified using the IQR method and reviewed based on business context rather than automatically removed.
+
+Deliverables
+
+- Interactive Power BI dashboard.
+- Python analysis and outlier detection.
+- Key business insights and actionable recommendations.
+
+Business Recommendations
+
+- Investigate high-attrition job roles.
+- Review workload and overtime practices.
+- Strengthen employee engagement and retention initiatives.
+- Monitor HR KPIs regularly to identify emerging trends.
+
+Key Takeaway
+
+This project demonstrates how data analytics and visualization can transform raw HR data into meaningful business insights and practical recommendations.
+
+---
+
+Author: mohamed mahmoud 
+
+Skills: Business Intelligence | Data Analysis | Data Visualization | Statistical Analysis
 
 
